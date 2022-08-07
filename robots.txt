@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kotangku.github.io/sitemap.xml

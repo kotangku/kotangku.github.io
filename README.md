@@ -1,1 +1,1 @@
-# kotangku.github.io
+# newssoal.github.io
